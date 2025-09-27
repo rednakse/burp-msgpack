@@ -2,7 +2,7 @@
 
 ## Requirement
 
-* msgpack-python
+* ~~msgpack-python~~ injected [u-msgpack-python v2.8.0](https://github.com/vsergeev/u-msgpack-python)
 
 ## Features
 
